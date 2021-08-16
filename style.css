@@ -215,12 +215,13 @@ i{
     /* left:50rem; */
     right:0.2rem;
 }
+
 .options div{
     height:100%;
     width:3rem;
     /* border: 1px solid; */
     display:flex;
-    justify-condtent: center;
+    justify-content: center;
     align-items:center;
     font-size:10px;
 
